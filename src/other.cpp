@@ -1,3 +1,3 @@
 #include "other.h"
 
-void filler{}
+void filler(){}
